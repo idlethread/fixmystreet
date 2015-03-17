@@ -884,7 +884,7 @@ sub contact_details_data {
             ],
         },
         {
-            category => 'Brunnen / Hydranten',
+            category => 'Brunnen/Hydranten',
             # body_name ???
             fields => [
                 {
