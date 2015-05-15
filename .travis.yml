@@ -27,3 +27,7 @@ before_script:
 script: "bin/run-tests t"
 after_script:
   - .travis/after_script
+
+branches:
+    except:
+        - zurich-2015-dev
